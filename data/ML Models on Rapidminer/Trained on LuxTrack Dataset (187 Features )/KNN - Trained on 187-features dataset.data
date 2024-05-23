@@ -1,1 +1,8 @@
-
+---
+category: data
+filename:  KNN - Trained on 187-features dataset.ioo
+weight: 23
+title: KNN model trained on LuxTrack dataset
+description: KNN model trained on 187-feature dataset
+type: ioo
+---
