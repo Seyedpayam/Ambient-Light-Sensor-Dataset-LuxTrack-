@@ -1,1 +1,8 @@
-
+---
+category: data
+filename:  SVM - Trained on 8-features dataset.ioo
+weight: 22
+title: SVM model trained on LightSpy dataset
+description: SVM model trained on 8-feature dataset
+type: ioo
+---
