@@ -1,7 +1,7 @@
 ---
 category: data
 filename:  ALS_Data_Collector (LuxTrack).apk
-weight: 201
+weight: 20
 title: ALS Data Collecotor App
 description: Android Application to Collect ALS Data from 8 websites defined in LuxTrack 
 type: apk
