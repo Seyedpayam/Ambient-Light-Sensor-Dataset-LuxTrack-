@@ -1,1 +1,8 @@
-
+---
+category: data
+filename:  Process Block Diagram for Testing the Models.rmp
+weight: 21
+title: Rapidminer Process Diagram for Testing the Models
+description: Test the already trained models on retrived Test Datasets
+type: rmp
+---
