@@ -1,1 +1,8 @@
-
+---
+category: data
+filename:  DT - Trained on 8-features dataset.ioo
+weight: 22
+title: DT model trained on LightSpy dataset
+description: DT model trained on 8-feature dataset
+type: ioo
+---
