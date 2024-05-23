@@ -2,7 +2,7 @@
 category: data
 filename:  ALS_Features_Test_Data_30' Y-Axis_LuxTrack (187 Features).xlsx
 weight: 14
-title: 187 Features from ALS recorded under Sun Lamp Light for Testing
-description: LuxTrack featues extracted from ALS Data recorded in intense ambient light
+title: 187 Features from ALS with 30' Rotated Mobile Phone around Y Axes for Testing
+description: LuxTrack featues extracted from ALS Data recorded by mobile phone standing in different angle relative to laptop display
 type: Excel
 ---
