@@ -1,1 +1,8 @@
-
+---
+category: data
+filename:  KNN - Trained on 8-features dataset.ioo
+weight: 22
+title: KNN model trained on LightSpy dataset
+description: KNN model trained on 8-feature dataset
+type: ioo
+---
