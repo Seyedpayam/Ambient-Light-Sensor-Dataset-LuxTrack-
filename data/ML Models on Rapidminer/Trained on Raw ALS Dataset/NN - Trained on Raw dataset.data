@@ -1,1 +1,8 @@
-
+---
+category: data
+filename:  NN - Trained on Raw dataset.ioo
+weight: 25
+title: NN model trained on Raw ALS dataset
+description: NN model trained on raw ALS timeseries dataset
+type: ioo
+---
