@@ -1,1 +1,8 @@
-
+---
+category: data
+filename:  KNN - Trained on Raw dataset.ioo
+weight: 25
+title: KNN model trained on Raw ALS dataset
+description: KNN model trained on raw ALS timeseries dataset
+type: ioo
+---
