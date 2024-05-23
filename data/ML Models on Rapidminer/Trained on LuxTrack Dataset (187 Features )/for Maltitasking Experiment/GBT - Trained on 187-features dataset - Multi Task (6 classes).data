@@ -1,1 +1,8 @@
-
+---
+category: data
+filename:  GBT - Trained on 187-features dataset - Multi Task (6 classes).ioo
+weight: 24
+title: GBT model trained on LuxTrack multitask dataset
+description: GBT model trained on 187-feature extracted from multitask dataset
+type: ioo
+---
