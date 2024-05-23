@@ -1,1 +1,8 @@
-
+---
+category: data
+filename:  SVM - Trained on Raw dataset.ioo
+weight: 25
+title: SVM model trained on Raw ALS dataset
+description: SVM model trained on raw ALS timeseries dataset
+type: ioo
+---
