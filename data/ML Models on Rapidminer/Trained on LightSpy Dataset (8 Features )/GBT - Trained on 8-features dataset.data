@@ -1,1 +1,8 @@
-
+---
+category: data
+filename:  GBT - Trained on 8-features dataset.ioo
+weight: 22
+title: GBT model trained on LightSpy dataset
+description: GBT model trained on 8-feature dataset
+type: ioo
+---
