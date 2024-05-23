@@ -1,1 +1,8 @@
-
+---
+category: data
+filename:  DT - Trained on 187-features dataset - Multi Task (6 classes).ioo
+weight: 24
+title: DT model trained on LuxTrack multitask dataset
+description: DT model trained on 187-feature extracted from multitask dataset
+type: ioo
+---
